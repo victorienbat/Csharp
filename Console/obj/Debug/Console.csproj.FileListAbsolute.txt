@@ -1,0 +1,8 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\bin\Debug\Console.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\bin\Debug\Console.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\bin\Debug\Console.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\obj\Debug\Console.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\obj\Debug\Console.pdb
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\bin\Debug\Console.exe.config
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\obj\Debug\Console.exe
+C:\Users\BIKOUTA\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Console\obj\Debug\Console.pdb

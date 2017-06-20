@@ -1,0 +1,6 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\bin\Debug\ConversionDeTemperature.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\bin\Debug\ConversionDeTemperature.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\bin\Debug\ConversionDeTemperature.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\obj\Debug\ConversionDeTemperature.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\obj\Debug\ConversionDeTemperature.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\ConversionDeTemperature\obj\Debug\ConversionDeTemperature.csprojResolveAssemblyReference.cache

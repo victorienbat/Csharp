@@ -1,0 +1,5 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Exercices\bin\Debug\Exercices.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Exercices\bin\Debug\Exercices.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Exercices\bin\Debug\Exercices.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Exercices\obj\Debug\Exercices.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\Exercices\obj\Debug\Exercices.pdb

@@ -1,0 +1,5 @@
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\MoyennePonderee\bin\Debug\MoyennePonderee.exe.config
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\MoyennePonderee\bin\Debug\MoyennePonderee.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\MoyennePonderee\bin\Debug\MoyennePonderee.pdb
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\MoyennePonderee\obj\Debug\MoyennePonderee.exe
+C:\Users\afpa\Google Drive\4 - C Sharp\3 - Les types de base et les entrées sorties\MoyennePonderee\obj\Debug\MoyennePonderee.pdb
